@@ -5,3 +5,4 @@ add branch dev1
 test merge master with commit
 test stash
 change at origin
+test conflict with remote at remote
