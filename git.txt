@@ -2,3 +2,4 @@ first git resposite
 add first branch
 add context on master
 add branch dev1
+test merge master with commit
